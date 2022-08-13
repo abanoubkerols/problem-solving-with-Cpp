@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1660328835 source:d:\c ++\ex...c++\number is odd oe even\main.cpp
+	<iostream>
+	<conio.h>
+
+1660328907 source:d:\c ++\ex...c++\genaral utility programs\number is odd or even\main.cpp
+	<iostream>
+	<conio.h>
+

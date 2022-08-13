@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660331633 source:d:\c ++\ex...c++\hello c++\main.cpp
+	<iostream>
+	<conio.h>
+
