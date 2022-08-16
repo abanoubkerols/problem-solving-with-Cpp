@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660655213 source:d:\c ++\ex...c++\general utility programs\armstrong number\main.cpp
+	<iostream>
+	<conio.h>
+
