@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661778623 source:d:\c ++\ex...c++\100 most important c++ programs\write c++ program to print your name 100 times\main.cpp
+	<iostream>
+	<string>
+

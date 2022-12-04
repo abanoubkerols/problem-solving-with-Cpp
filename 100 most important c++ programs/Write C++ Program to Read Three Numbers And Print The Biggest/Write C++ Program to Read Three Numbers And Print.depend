@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661778465 source:d:\c ++\ex...c++\100 most important c++ programs\write c++ program to read three numbers and print\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+
