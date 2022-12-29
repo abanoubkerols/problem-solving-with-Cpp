@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671976755 source:d:\c ++\ex...c++\100 most important c++ programs\write a c++ program to accept a string in upper case and print it by lower case.\main.cpp
+	<conio.h>
+	<iostream>
+

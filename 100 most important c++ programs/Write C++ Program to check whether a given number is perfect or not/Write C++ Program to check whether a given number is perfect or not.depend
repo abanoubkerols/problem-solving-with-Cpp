@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670836790 source:d:\c ++\ex...c++\100 most important c++ programs\write c++ program to check whether a given number is perfect or not\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+

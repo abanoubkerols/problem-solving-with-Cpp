@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670835628 source:d:\c ++\ex...c++\functions\write a c++ program to accept a string in any case and print it by another case.\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
